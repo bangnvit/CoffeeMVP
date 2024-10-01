@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Coffee MVP</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_cart">Giỏ hàng</string>
+    <string name="title_feedback">Phản hồi</string>
+    <string name="title_contact">Liên hệ</string>
+    <string name="title_account">Tài khoản</string>
+
+    <string name="title_ad_product">Sản phẩm</string>
+    <string name="title_ad_category">Danh mục</string>
+    <string name="title_ad_order">Đơn hàng</string>
+    <string name="title_ad_feedback">Phản hồi</string>
+    <string name="title_ad_account">Tài khoản</string>
+    <string name="str_hint_search">Tìm kiếm</string>
+    <string name="category">Danh mục</string>
+    <string name="product_suggest">Gợi ý</string>
+    <string name="discount_text">giảm</string>
+
+    <string name="reduce">Giảm</string>
+    <string name="percent">%</string>
+
+    <string name="cart_fragment">Cart Fragment</string>
+    <string name="feedback_fragment">Feedback Fragment</string>
+    <string name="contact_fragment">Contact Fragment</string>
+    <string name="account_fragment">Account Fragment</string>
+
+
+</resources>

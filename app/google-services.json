@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "932596705719",
+    "firebase_url": "https://coffeeorder-f888-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "coffeeorder-f888",
+    "storage_bucket": "coffeeorder-f888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932596705719:android:e30ab5c5c29602ddf0e032",
+        "android_client_info": {
+          "package_name": "com.bangnv.coffeeorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw18Z93gef_kuF4H4ndil-LgOa271cA6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
