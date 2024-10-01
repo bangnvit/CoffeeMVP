@@ -2,6 +2,10 @@
 
 CoffeeMVP is a simple sample Android application built with Kotlin, implementing the MVP architecture to display a product list. 
 
+## Demo
+
+[Coffee MVP - Demo](https://www.youtube.com/shorts/Ib-kfTMrRZQ)
+
 ## Technologies Used
 
 - **Kotlin**: The primary programming language for Android development.
@@ -16,7 +20,3 @@ CoffeeMVP is a simple sample Android application built with Kotlin, implementing
 - Utilize best practices in Android development with MVP architecture.
 - Efficient network calls using Retrofit and OkHttp.
 - Asynchronous data handling with RxJava.
-
-## Demo
-
-[Coffee MVP - Demo](https://www.youtube.com/shorts/Ib-kfTMrRZQ)
