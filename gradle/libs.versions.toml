@@ -19,6 +19,7 @@ rxjava = "2.2.20"
 rxandroid = "2.1.1"
 okhttp = "4.9.3"
 glide = "4.14.2"
+activity = "1.9.2"
 
 
 [libraries]
@@ -49,6 +50,7 @@ logging-interceptor = { group = "com.squareup.okhttp3", name = "logging-intercep
 
 # glide
 glide = { module = "com.github.bumptech.glide:glide", version.ref = "glide" }
+androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
 
 
 [plugins]
